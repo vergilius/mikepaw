@@ -32,7 +32,7 @@ export default function FrontPage(props: any): JSX.Element {
           button2URL="https://github.com/wpengine/headless-framework"
           bgImage="/images/headless_hero_background.jpg"
           id={styles.home_hero}>
-          <p>hello there</p>
+          <p>lets change that line</p>
         </Hero>
         <section className={styles.explore}>
           <div className="wrap">
